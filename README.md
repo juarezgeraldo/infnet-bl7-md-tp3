@@ -1,4 +1,4 @@
-<h1> infnet-bl6-daw-tp1</h1>
+<h1> infnet-bl7-md-tp3</h1>
 <h2> Instituto Infnet </h2>
 <h3> Análise e Desenvolvimento de Sistemas - Matemática Discreta, Estrutura de Dados e Algoritmos</h3>
 <h3> TRABALHO PRÁTICO 3</h3>
